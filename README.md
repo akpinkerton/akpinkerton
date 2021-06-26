@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=akpinkerton.akpinkerton" />
+<img align="right" src="https://komarev.com/ghpvc/?username=akpinkerton&color=yellow" />
+<!-- https://komarev.com/ghpvc/?username=your-github-username&color=green -->
+
 
 ## Hey, I'm Anna👋🏻
 
@@ -21,7 +23,7 @@
 <img align="left" width="50px" height="50px" src="../assets/css.png?raw=true"/>
 <img align="left" width="50px" height="50px" src="../assets/html.png?raw=true"/>
 <img align="left" width="50px" height="50px" src="../assets/js.png?raw=true"/>
- <img align="left" width="50px" height="50px" src="../assets/bootstrap.png?raw=true"/>
+<img align="left" width="50px" height="50px" src="../assets/bootstrap.png?raw=true"/>
 <img align="left" width="50px" height="50px" src="../assets/react.png?raw=true"/>
 <img align="left" width="50px" src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/>
 </p>
