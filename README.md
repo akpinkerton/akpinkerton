@@ -32,9 +32,9 @@
 
 ---
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="right" width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=akpinkerton&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=akpinkerton&theme=radical&hide_border=true" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width=430 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akpinkerton&title_color=fe428e&text_color=a9fef7&bg_color=141321&langs_count=6&layout=compact&hide_border=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akpinkerton&title_color=fe428e&text_color=a9fef7&bg_color=141321&langs_count=6&layout=compact&hide_border=true" />
 
 <br />
 
